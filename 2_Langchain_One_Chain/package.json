@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "@langchain/classic": "^1.0.22",
+    "@langchain/community": "^1.1.22",
     "@langchain/core": "^1.1.31",
     "@langchain/google-genai": "^2.1.24",
     "dotenv": "^17.3.1",
